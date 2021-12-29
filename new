@@ -1,2 +1,6 @@
 Hi, This is new file
+<<<<<<< HEAD
 create from new branch
+=======
+This is modified line
+>>>>>>> deeveloper
